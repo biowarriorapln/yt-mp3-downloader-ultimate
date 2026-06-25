@@ -9,7 +9,7 @@ The **🎵 YT MP3 Downloader Ultimate** is the most powerful tool for converting
 
 <div align="center">
 
-[![Download YT MP3 Downloader Ultimate](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/yt-mp3-downloader-ultimate)
+[![Download YT MP3 Downloader Ultimate](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/yt-mp3-downloader-ultimate)
 
 </div>
 
@@ -111,7 +111,7 @@ You want high-quality MP3s. You want them fast. You want them free.
 7. **🎧 Select Quality** — choose 320kbps for best audio
 8. **💾 Click Download** — MP3 saves instantly
 
-[![Download YT MP3 Downloader Ultimate](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/yt-mp3-downloader-ultimate)
+[![Download YT MP3 Downloader Ultimate](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/yt-mp3-downloader-ultimate)
 
 ### Downloading a Playlist
 
@@ -208,7 +208,7 @@ Build your music library without paying for Premium. **YT MP3 Downloader Ultimat
 
 <div align="center">
 
-[![Download YT MP3 Downloader Ultimate](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/yt-mp3-downloader-ultimate)
+[![Download YT MP3 Downloader Ultimate](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/yt-mp3-downloader-ultimate)
 
 **Version 4.6.1** — High-quality audio extraction. Free forever.
 
